@@ -1,4 +1,4 @@
-## Salve! Sena aqui 👋
+## Salve! Sena aqui. 👋
 
 <div>
   <a href="https://github.com/JSeena">
