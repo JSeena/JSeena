@@ -1,4 +1,4 @@
 ## Salve! Sena aqui 👋
 
-🌱 Vivendo e aprendendo...
-📫 Segue aí: linkedin.com/in/jseena
+<p>🌱 Vivendo e aprendendo...</p>
+<p>📫 Tô por aqui também: linkedin.com/in/jseena</p>
